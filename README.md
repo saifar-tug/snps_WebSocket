@@ -110,7 +110,6 @@ In Terminal 2 (click + for new tab):
 ```bash
 cd snps_WebSocket
 source venv/bin/activate
-python client/client.py
 ```
 
 Expected output:
