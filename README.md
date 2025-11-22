@@ -110,15 +110,10 @@ In Terminal 2 (click + for new tab):
 ```bash
 cd snps_WebSocket
 source venv/bin/activate
-```
-
-Expected output:
-
-```bash
 lsof -i :8000
 ```
 
-Expected: 
+Expected output: 
 
 ```bash
 python3.x PID saifar ... TCP 127.0.0.1:8000 (LISTEN)
